@@ -1,6 +1,7 @@
 ### Supported tags and respective `Dockerfile` links
 
-* `0.21`, `latest` ([Dockerfile](https://github.com/shadyoak/hugo/blob/master/Dockerfile))
+* `0.22`, `latest` ([Dockerfile](https://github.com/shadyoak/hugo/blob/master/Dockerfile))
+* `0.21` ([Dockerfile](https://github.com/shadyoak/hugo/blob/v0.21/Dockerfile))
 
 ### Hugo Docker Image
 
