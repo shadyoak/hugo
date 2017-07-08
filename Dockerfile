@@ -2,7 +2,7 @@ FROM alpine:3.6
 
 LABEL maintainer="Nate Morse <nathan@shadyoaksoftware.com>"
 
-ENV HUGO_VERSION=0.22
+ENV HUGO_VERSION=0.22.1
 
 RUN apk add --no-cache --update curl py3-pygments && \
 	curl -L https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz | tar xvz -C /tmp && \
