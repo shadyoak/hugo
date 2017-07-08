@@ -1,6 +1,7 @@
 ### Supported tags and respective `Dockerfile` links
 
-* `0.23`, `latest` ([Dockerfile](https://github.com/shadyoak/hugo/blob/master/Dockerfile))
+* `0.24`, `latest` ([Dockerfile](https://github.com/shadyoak/hugo/blob/master/Dockerfile))
+* `0.23` ([Dockerfile](https://github.com/shadyoak/hugo/blob/v0.23/Dockerfile))
 * `0.22.1` ([Dockerfile](https://github.com/shadyoak/hugo/blob/v0.22.1/Dockerfile))
 * `0.22` ([Dockerfile](https://github.com/shadyoak/hugo/blob/v0.22/Dockerfile))
 * `0.21` ([Dockerfile](https://github.com/shadyoak/hugo/blob/v0.21/Dockerfile))
